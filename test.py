@@ -5,5 +5,5 @@ hello()
 
 # git init
 # git add добавление файлов для дальнейшей отправки
-# git comit 
+# git commit 
 # 
