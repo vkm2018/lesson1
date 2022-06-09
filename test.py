@@ -4,6 +4,7 @@ def hello():
 hello()
 
 # git init
-# git add добавление файлов для дальнейшей отправки
-# git commit 
-# 
+# git add . - добавление файлов для дальнейшей отправки
+# git commit -m 'message' -
+# git remote add origin <link> - 
+# git push origin master - 
