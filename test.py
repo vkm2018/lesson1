@@ -7,4 +7,4 @@ hello()
 # git add . - добавление файлов для дальнейшей отправки
 # git commit -m 'message' -
 # git remote add origin <link> - 
-# git push origin master - 
+# git push origin master - dsds
